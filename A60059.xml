@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short but true account of the death of the grand visier strangled at Belgrade by the command of the grand seignior, with some reasons that induc'd him thereto : in a letter to a friend.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60059</idno><idno type="EEBO-CITATION">16971877</idno>
+  <idno type="VID">105561</idno>
+  <idno type="EEBO-PROQUEST">2248530638</idno>
+  
+            <idno type="STC">Wing S3566</idno>
+            <idno type="STC">ESTC R37549</idno>
+            <idno type="OCLC">16971877</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1159:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short but true account of the death of the grand visier strangled at Belgrade by the command of the grand seignior, with some reasons that induc'd him thereto : in a letter to a friend.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Norris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Austro-Turkish War, 1683-1699.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105561:1"/>
+            <pb facs="tcp:105561:1"/>
+            <head>A short but true ACCOUNT Of the Death of The Grand Visier, Strangled at <hi>BELGRADE,</hi> By the Command of the Grand SEIGNIOR: WITH Some Reasons that induc'd him thereunto.</head>
+            <head type="sub">In a Letter to a Friend,</head>
+            <p>THE ill Success of the Siege of <hi>Vienna,</hi> followed by other Circumstances of the like Nature in the Field Battels, He begot such an <hi>Odium</hi> in the Popularity to<g ref="char:EOLhyphen"/>wards <hi>Hamet Selimus,</hi> the Grand Visier; that notwithstanding his long and seem<g ref="char:EOLhyphen"/>ing stedfast security he thought to have possest in his Masters <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avour, yet at length deceived him, and he became a Victim, as several of his Predecessors had done, to the Vulgar Fury; which oft-times has displac'd even the Grand Seigniors themselves; especially when the Mutiny has begun among the <hi>Jan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'s,</hi> which makes the Surprize the less, that so great an Officer should be so quietly Cut off, as the present <hi>Hamet Selimus</hi> was; and the more, if we consider, that his Predecessor, the famous <hi>Hali Achmet,</hi> notwithstand<g ref="char:EOLhyphen"/>ing his great Success in the taking of <hi>Candia,</hi> found the like measures after all those signal Services he had done to the <hi>Ottoman</hi> Empire. Had he had regard to Omens, or been super<g ref="char:EOLhyphen"/>stitiously inclin'd, he might partly have ghes'd at his misfortunes by the previous Signals that attended him at his going forth from <hi>Constantinople:</hi> there was no Shouts, no Accla<g ref="char:EOLhyphen"/>mations, no wishes of Success, but on the contrary, notwithstanding his continued smiles and bowings to the People, a disregardless aspect, and a cloudy look was all the returns he received from the discontented Multitude, on whom the Impression was still fresh of his Severity and Covetousness, which extended not only to his own Countrymen, but to the <hi>Franks,</hi> by which name they call all the <hi>Europeans</hi> out of their own Dominions; witness the hard case of Mr. <hi>Pentloe,</hi> who by inadvertency marrying of a <hi>Greek</hi> Woman, about the year 79, had an Avenue serv'd upon him by this Visier, and all his Estate seiz'd upon to the use of the Grand Seignior. But what is urg'd as to the rigour of the Visier, is this, that two eminent Merchants, who were in the quality of Administrators, or Overseers to his Estate, were near undon, he imprisoning them, and charging 20000 pound more upon the Estate then ever it amounted to. In the time of his Cavalcade, the <hi>Bird,</hi> called the <hi>Mahometan Bird,</hi> being about the bigness of a Raven, crook'd for several Hours from the Top of <hi>Santa Sophia,</hi> the great Mosk of the <hi>Turks;</hi> several howlings, like those of Dogs, were heard from the opposite shoar of <hi>Scutari,</hi> a place, in the Plague time, they send most of their Dogs to; not being cautious only of killing them, but sending them even thither Relief, notwithstanding the wideness of the Channel between that and <hi>Galata.</hi> His Turbant fell off of his Head, his Horse stumbling just at the same time as he pass'd through the <hi>Portico Novo,</hi> as you go by the old <hi>Hyppodrome.</hi> Several of the Crescents, fix'd upon the Tops of the Capolas of the Mosques, turn'd into Circles, and the Figure of a Spread-Eagle was seen to fly over the City. But to the purpose; As to his Birth, it is part<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:105561:2"/> unknown, being brought in a Prisoner by the <hi>Precopensian Tartars,</hi> and sold to <hi>Mu<g ref="char:EOLhyphen"/>ly Ishmael,</hi> who had been formerly a Captain of Horse in <hi>Samogitia,</hi> who came into Favour by the means of <hi>Ibraisia Mula<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta,</hi> one of the Grand Seig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iors Mistresses, and prime Beau<g ref="char:EOLhyphen"/>ties of the <hi>Seraglio.</hi> His first deportment was so extreamly obliging, that not only the Grand Seignior but the rest of his Bashaws, could not but look upon him with a more than ordinary Eye, esteeming him a Person fit for more than common designs: But the main Obstacle was, the more than usual Conversation he had with that Lady, by a private Intrigue of the <hi>Madonna</hi> of the <hi>Maids;</hi> His first signal degree of Honour was, his being made Bas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Aleppo,</hi> and afterwards by few steps in a short time he moun<g ref="char:EOLhyphen"/>ted to the height from whence he fell. As to what concerns his management of Affairs in the late War, I think I need not mention, it being fresh in the memory of most in<g ref="char:EOLhyphen"/>quisitive Persons. As to the last Scene of his Life at <hi>Belgrade,</hi> 'twas thus; The Mutiny growing high at <hi>Constantinople,</hi> and his Rigour to the People in Peace, making them averse to the War, under such a Commander, caus'd a general hatred to him through<g ref="char:EOLhyphen"/>out the whole Camp; They could not then dare to shew their Aversions, but after his Defeat at <hi>Vienna,</hi> all Tongues were free, and they spake in general the Sentiments of their minds. The Grand Seignior, who by a long tye of Love had united his affection to him, could not of a sudden be perswaded to withdraw it, but at length, continual Clamours being made against him, he was forced to yield to their demands. The Vi<g ref="char:EOLhyphen"/>sier thought himself pretty secure at <hi>Belgrade,</hi> a Place of considerable Strength, but he found it otherwise, the <hi>Aga</hi> of the <hi>Janizaries, Kaka Sebat,</hi> one formerly in some esteem with the Visier, and promis'd his Neece, the noted <hi>Sucalemma,</hi> fail'd yet of his respects to the Visier, and perform'd his Office, as to the point of Strangling of him. He came to him in a way of Courtesie, as desiring his advice in a great affair of War, upon which he was admitted, but the conclusion was his Death, the <hi>Mutes</hi> performing their Office, and the <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> returning to <hi>Constantinople</hi> with his Head.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Norris,</hi> at the <hi>Kings Arms</hi> without <hi>Temple-Bar,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
